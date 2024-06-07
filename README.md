@@ -1,6 +1,8 @@
 Weather App
 
 This Weather App displays the current weather for your current location or a specified location. The app will fetch weather data using the WeatherAPI and OpenWeatherMap API.
+![Screenshot 2024-06-08 010449](https://github.com/sachin2398/weather-app/assets/113828281/4f06c0f0-6250-4fee-b520-4fd4e71a2821)
+
 
 Features
 
